@@ -30,7 +30,7 @@ Print the sum of the digits of the five digit number.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-17T05:25:37.142Z  
+**Submitted:** 2026-11-17T05:25:45.677Z  
 
 ```c
 #include <stdio.h>
